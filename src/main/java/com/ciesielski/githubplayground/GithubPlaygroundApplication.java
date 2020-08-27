@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GithubPlaygroundApplication {
 
 	public static void main(String[] args) {
+		// adding a comment here
 		SpringApplication.run(GithubPlaygroundApplication.class, args);
 	}
 
